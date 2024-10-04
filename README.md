@@ -8,7 +8,7 @@ The objective is not to create something novel but to gain a deeper understandin
 
 ## Data
 
-I used the [BBC Arabic](https://github.com/csebuetnlp/xl-sum?tab=readme-ov-file) dataset for training and evaluation. It contains text-summary pairs, with 32,473 records for training and 4,689 for validation. The dataset size is too small relative to the model.
+I used the [BBC Arabic](https://github.com/csebuetnlp/xl-sum?tab=readme-ov-file#:~:text=Arabic,Download) dataset for training and evaluation. It contains text-summary pairs, with 32,473 records for training and 4,689 for validation. The dataset size is too small relative to the model.
 
 ## Model
 - Paper: [BART: Denoising Sequence-to-Sequence Pre-training](https://arxiv.org/abs/1910.13461).
